@@ -62,6 +62,5 @@ function pathFinder(log) {
 }
 
 
-// console.log(input1)
 console.log(pathFinder(input1))
 console.log(pathFinder(input2))
